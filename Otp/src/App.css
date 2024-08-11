@@ -1,0 +1,21 @@
+.App{
+  text-align: center;
+  font-size:xx-large;
+}
+.otp{
+  display: flex;
+  min-width: 100%;
+  justify-content: center;
+  
+  width:40px;
+  
+  
+}
+.otpp{
+  width:70px;
+  height:70px;
+  font-size: x-large;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 10px;
+}
